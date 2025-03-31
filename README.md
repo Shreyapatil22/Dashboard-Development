@@ -17,3 +17,5 @@ For visualization, Plotly Express was used to create a Sales Trend Line Chart (p
 
 OUTPUT
 ![Image](https://github.com/user-attachments/assets/352582b6-0325-47d9-b005-3ca0f55a5a6c)
+
+![Image](https://github.com/user-attachments/assets/bd3c6f3c-f58b-421d-bbdc-f3025e49ccb5)
